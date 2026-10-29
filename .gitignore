@@ -1,0 +1,43 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Build and cache directories
+.gradle/
+build/
+app/build/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration & environment
+local.properties
+.env
+.env.local
+.env.*.local
+.aistudio/
+.build-outputs/
+
+# Android Studio & IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Android Keystores & Credentials
+debug.keystore
+debug.keystore.base64
+*.keystore
+*.jks
+google-services.json
+
+# Operating System & Temporary files
+.DS_Store
+Thumbs.db
+tmp/
+*.log
+*.tmp
